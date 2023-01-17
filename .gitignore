@@ -1,0 +1,4 @@
+﻿*.o
+game_of_life
+.vscode
+*.swp
